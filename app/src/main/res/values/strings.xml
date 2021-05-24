@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnifyTheLit_Firebase</string>
+    <string name="choose_images">Choose Images</string>
+    <string name="choose_videos">Choose Videos</string>
+    <string name="upload">Upload</string>
+    <string name="show_data">Show Data</string>
+</resources>

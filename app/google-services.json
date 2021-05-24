@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708570038308",
+    "project_id": "unifythelit-firebase",
+    "storage_bucket": "unifythelit-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708570038308:android:64c6d3b2144f8d1eaf18b1",
+        "android_client_info": {
+          "package_name": "com.great.unifythelit_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708570038308-uqpbrmfq0j1fqeu3bm9ehm0jdra5glht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSy4s-7ttFYbAJ-BnqZAwRbn0rR4HBME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708570038308-uqpbrmfq0j1fqeu3bm9ehm0jdra5glht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
